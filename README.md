@@ -1,3 +1,4 @@
+
 # Contact Directory
 
 ## Description
@@ -29,3 +30,5 @@ Contact Directory is a Python-based application that helps users manage their co
 Run the following command:
 
 python main.py
+
+# Mini-Project
