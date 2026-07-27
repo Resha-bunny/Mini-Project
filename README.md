@@ -32,5 +32,6 @@ Run the following command:
 python main.py
 
 # Mini-Project
-Contact Directory are organized using object-oriented programming
+
+
 
