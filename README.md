@@ -32,6 +32,6 @@ Run the following command:
 python main.py
 
 # Mini-Project
-
+The system can be improved in the future by adding a graphical user interface, login details and additional contact details features.
 
 
