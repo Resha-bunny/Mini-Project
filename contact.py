@@ -16,3 +16,5 @@ class Contact(Person):
         print("Name:", self.name)
         print("Phone:", self.phone)
         print("Email:", self.email)
+        #contact Directory are organized using oop 
+        
